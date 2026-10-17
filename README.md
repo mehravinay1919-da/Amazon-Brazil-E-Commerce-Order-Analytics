@@ -1,7 +1,7 @@
 # Amazon Brazil E-Commerce Order Analytics
 
 ## Project Overview
-A SQL case study analysing Brazilian e-commerce operations through customer, seller, product, order, payment, and review data.
+This is an SQL case study analysing Brazilian e-commerce operations through customer, seller, product, order, payment, and review data.
 
 ## Business Objectives
 - Evaluate seller-state order fulfilment.
@@ -33,8 +33,8 @@ A SQL case study analysing Brazilian e-commerce operations through customer, sel
 The analysis supports logistics planning, category merchandising, seller benchmarking, customer retention, payment-method evaluation, and review-engagement initiatives.
 
 ## Files
-- `Amazon_Analysis.sql` — SQL business queries and database inspection commands.
-- `Amazon_Brazil_SQL_Analytics.pdf` — Project presentation, query explanations, results, and business context.
+- `Amazon_Analysis.sql` - SQL business queries and database inspection commands.
+- `Amazon_Brazil_SQL_Analytics.pdf`- Project presentation, query explanations, results, and business context.
 
 ## How to Run
 1. Set up the required dataset and tables in MySQL.
