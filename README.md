@@ -44,3 +44,9 @@ The analysis supports logistics planning, category merchandising, seller benchma
 
 ## Disclaimer
 Independent portfolio case study. Findings should be validated against the executed queries and source dataset before being used for business decisions.
+
+
+
+<img width="1533" height="858" alt="image" src="https://github.com/user-attachments/assets/8470a5f4-125f-4b43-9387-c8d0cf1b2249" />
+
+
